@@ -1,6 +1,6 @@
 # My Simple React Blog
 
-This is a  project built with React. It shows how to use **components** and **props** to display a small blog site.
+This is a project built with React. It shows how to use **components** and **props** to display a small blog site.
 
 ## Features
 
@@ -35,3 +35,8 @@ All content comes from blog.js
 Data is passed to components using props
 
 This project helps me practice React for the first time
+
+
+This is the screenshot of the final display.
+![Screenshot of blog](images/blog.png)
+```
