@@ -12,7 +12,7 @@ This is a project built with React. It shows how to use **components** and **pro
 
 1. Clone this repository:
 
-```bash
+
 git clone <your-repo-url>
 cd <repo-folder>
 
@@ -39,4 +39,5 @@ This project helps me practice React for the first time
 
 This is the screenshot of the final display.
 ![Screenshot of blog](images/blog.png)
-```
+
+ 
